@@ -37,7 +37,6 @@ Install [Chrultrabook Tools](https://github.com/death7654/Chrultrabook-Tools/rel
 If you encounter issues while updating, remove CoolStar's drivers (touchpad, touchscreen, audio, etc.) before retrying — they may sometimes cause problems. Reinstall them after the installation finishes.
 :::
 
-
 ## Linux
 
 ### General QOL Fixes
